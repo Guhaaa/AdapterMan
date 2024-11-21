@@ -21,7 +21,6 @@
         "source": "https://github.com/joanhey/adapterman"
     },
     "require": {
-        "php": "^8",
         "workerman/workerman": "^4.1"
     },
     "require-dev": {
